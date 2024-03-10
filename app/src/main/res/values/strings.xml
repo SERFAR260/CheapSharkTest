@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CheapSharkTest</string>
+    <string name="gameListTitle">Game list</string>
+    <string name="noInternetAccess">Por favor verifique su conexión a internet</string>
 </resources>
