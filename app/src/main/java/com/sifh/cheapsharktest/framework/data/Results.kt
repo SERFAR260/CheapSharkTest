@@ -1,7 +1,6 @@
 package com.sifh.cheapsharktest.framework.data
 
 import com.google.gson.annotations.SerializedName
-import java.sql.Timestamp
 
 data class Results(
     @SerializedName("internalName") var internalName: String? = null,
